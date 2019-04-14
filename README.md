@@ -1,2 +1,2 @@
 # funWithShap
-Checking how deepSHAP works on VGG-16 (exploring reasons for predctions)
+Exploring reasons for convolutional neural network predctions: Checking how deepSHAP works on VGG-16
