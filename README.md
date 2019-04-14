@@ -1,2 +1,2 @@
 # funWithShap
-Checking how deepSHAP works on imagenet (exploring reasons for predctions)
+Checking how deepSHAP works on VGG-16 (exploring reasons for predctions)
